@@ -13,6 +13,7 @@ import WhyUs from "./components/sections/WhyUs";
 import Reviews from "./components/sections/Reviews";
 import Testimonials from "./components/sections/Testimonials";
 import Stats from "./components/sections/Stats";
+import FAQ from "./components/sections/FAQ";
 
 // import Products from "./components/sections/Products";
 // import About from "./components/sections/About";
@@ -59,6 +60,7 @@ function PublicSite() {
   <Reviews />
   <Testimonials />
   <Stats />
+  <FAQ />
 </main>
         <Footer />
         <FloatingWidgets />
