@@ -4,12 +4,16 @@ import { Toaster } from "sonner";
 import { LangProvider } from "./contexts/LangContext";
 import { AuthProvider } from "./contexts/AuthContext";
 
-import Loader from "./components/sections/Loader";
-import PromoBanner from "./components/sections/PromoBanner";
-import Header from "./components/sections/Header";
 import Hero from "./components/sections/Hero";
 import About from "./components/sections/About";
 import WhyUs from "./components/sections/WhyUs";
+import Reviews from "./components/sections/Reviews";
+import Testimonials from "./components/sections/Testimonials";
+import Stats from "./components/sections/Stats";
+import FAQ from "./components/sections/FAQ";
+import Newsletter from "./components/sections/Newsletter";
+import Contact from "./components/sections/Contact";
+import ComingSoon from "./components/sections/ComingSoon";
 
 // import Products from "./components/sections/Products";
 // import About from "./components/sections/About";
@@ -51,8 +55,16 @@ function PublicSite() {
         <Header />
 <main>
   <Hero />
+  <Products />
   <About />
   <WhyUs />
+  <Reviews />
+  <Testimonials />
+  <Stats />
+  <FAQ />
+  <Newsletter />
+  <Contact />
+  <ComingSoon />
 </main>
         <Footer />
         <FloatingWidgets />
