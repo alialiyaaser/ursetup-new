@@ -14,6 +14,7 @@ import Reviews from "./components/sections/Reviews";
 import Testimonials from "./components/sections/Testimonials";
 import Stats from "./components/sections/Stats";
 import FAQ from "./components/sections/FAQ";
+import Newsletter from "./components/sections/Newsletter";
 
 // import Products from "./components/sections/Products";
 // import About from "./components/sections/About";
@@ -61,6 +62,7 @@ function PublicSite() {
   <Testimonials />
   <Stats />
   <FAQ />
+  <Newsletter />
 </main>
         <Footer />
         <FloatingWidgets />
