@@ -4,7 +4,7 @@ import { useLang } from "../../contexts/LangContext";
 import { PRODUCTS } from "../../i18n/translations";
 
 export default function Products() {
-  const { t, lang } = useLang();
+const { t } = useLang();
   const [detail, setDetail] = useState(null);
 
   return (
