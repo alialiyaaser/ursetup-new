@@ -51,7 +51,7 @@ function PublicSite() {
   <Hero />
   <Products />
   <About />
-</main>
+ </main>
         <Footer />
         <FloatingWidgets />
       </div>
