@@ -47,8 +47,10 @@ function PublicSite() {
       <div className="grain min-h-screen">
         <PromoBanner />
         <Header />
-       <main>
+   <main>
   <Hero />
+  <Products />
+  <About />
 </main>
         <Footer />
         <FloatingWidgets />
