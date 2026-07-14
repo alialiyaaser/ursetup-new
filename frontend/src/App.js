@@ -47,9 +47,12 @@ function PublicSite() {
       <div className="grain min-h-screen">
         <PromoBanner />
         <Header />
-   <main>
+<main>
   <Hero />
-  </main>
+  <div style={{color:"white"}}>
+    TEST PRODUCTS
+  </div>
+</main>
         <Footer />
         <FloatingWidgets />
       </div>
