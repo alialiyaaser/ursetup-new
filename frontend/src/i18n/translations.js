@@ -27,7 +27,7 @@ export const translations = {
       marqueeItems: ["Marble Series", "Free Delivery in KSA", "Made for Play", "Museum-grade Finish", "Handcrafted Details"],
     },
     products: {
-      kicker: "THE MARBLE SERIES / 03 ARTIFACTS",
+      kicker: "THE MARBLE SERIES / 04 ARTIFACTS",
       title: "Three surfaces. One obsession with detail.",
       subtitle:
         "Each mousepad is a study in restraint — precision-stitched edges, low-friction micro-weave, and cinema-grade marble prints that photograph as beautifully as they perform.",
@@ -107,11 +107,11 @@ export const translations = {
       items: [
         {
           q: "Where do you ship?",
-          a: "We ship across the Kingdom of Saudi Arabia and internationally on request via our Salla store.",
+          a: "We ship within the Kingdom of Saudi Arabia and the Gulf countries.",
         },
         {
           q: "How long does delivery take?",
-          a: "Within KSA: typically 2–4 business days. International delivery depends on destination.",
+          a: "Within Saudi Arabia: 2 to 4 business days. Gulf countries: Depends on the destination.",
         },
         {
           q: "Are your mousepads washable?",
@@ -180,7 +180,7 @@ export const translations = {
     hero: {
       kicker: "إكسسوارات سيت أب فاخرة — الرياض",
       title1: "ارتقِ",
-      title2: "بمكتبك.",
+      title2: "بسيت ابك.",
       subtitle:
         "علامة تجارية سعودية تُنتج ماوس باد رخامية بجودة معارض الفن، وإكسسوارات مكاتب للاعبين والمصممين وعشاق التفاصيل.",
       shop: "تسوّق المجموعة",
@@ -188,7 +188,7 @@ export const translations = {
       marqueeItems: ["سلسلة الرخام", "توصيل مجاني داخل المملكة", "مصنوع لللعب", "جودة معارض الفن", "تفاصيل يدوية"],
     },
     products: {
-      kicker: "سلسلة الرخام / ٠٣ قِطع",
+      kicker: "سلسلة الرخام / ٠٤ قِطع",
       title: "ثلاثة أسطح. هوس واحد بالتفاصيل.",
       subtitle:
         "كل ماوس باد دراسة في الأناقة — حواف مخيطة بدقة، نسيج ميكروي منخفض الاحتكاك، وطباعة رخامية سينمائية تتألق أمام الكاميرا كما تتألق تحت يدك.",
@@ -266,17 +266,17 @@ export const translations = {
       kicker: "أسئلة · إجابات",
       title: "كل ما قد يخطر ببالك.",
       items: [
-        { q: "أين تشحنون؟", a: "نشحن داخل المملكة العربية السعودية، وعالميًا عند الطلب عبر متجرنا في سلة." },
-        { q: "كم تستغرق مدة التوصيل؟", a: "داخل السعودية: من ٢ إلى ٤ أيام عمل. عالميًا: يعتمد على الوجهة." },
+        { q: "أين تشحنون؟", a: "نشحن داخل المملكة العربية السعودية، ودول الخليج." },
+        { q: "كم تستغرق مدة التوصيل؟", a: "داخل السعودية: من ٢ إلى ٤ أيام عمل. دول الخليج: يعتمد على الوجهة." },
         { q: "هل الماوس باد قابل للغسل؟", a: "نعم. ماء بارد ومنظف لطيف، ثم يُترك ليجف بشكل مسطح. الحواف لن تتفكك." },
         { q: "هل تقدمون طلبات جماعية للشركات؟", a: "نعم — لفرق الرياضات الإلكترونية والمكاتب والهدايا. تواصل معنا للتسعير." },
-        { q: "ما هي سياسة الإرجاع؟", a: "المنتجات غير المستخدمة بغلافها الأصلي قابلة للإرجاع خلال ١٤ يومًا. التفاصيل في متجر سلة." },
+        { q: "ما هي سياسة الإرجاع؟", a: "سياسه الاستبدال والارجاع تجدونها عبر متجرنا." },
       ],
     },
     newsletter: {
       kicker: "النشرة الداخلية",
       title: "إصدارات وعروض وإلهام للمكاتب.",
-      subtitle: "رسالة مدروسة شهريًا. لا إزعاج أبدًا.",
+      subtitle: "رسالة مدروسة شهريًا. دون ازعاج أبدًا.",
       placeholder: "your@email.com",
       cta: "اشترك",
       success: "أنت الآن معنا. أهلاً بك في الداخل.",
