@@ -50,7 +50,7 @@ function PublicSite() {
    <main>
   <Hero />
   <Products />
- </main>
+  </main>
         <Footer />
         <FloatingWidgets />
       </div>
