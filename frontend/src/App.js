@@ -49,7 +49,6 @@ function PublicSite() {
         <Header />
    <main>
   <Hero />
-  <Products />
   </main>
         <Footer />
         <FloatingWidgets />
