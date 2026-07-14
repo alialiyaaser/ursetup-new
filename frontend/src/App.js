@@ -17,6 +17,7 @@ import FAQ from "./components/sections/FAQ";
 import Newsletter from "./components/sections/Newsletter";
 import Contact from "./components/sections/Contact";
 import ComingSoon from "./components/sections/ComingSoon";
+import Products from "./components/sections/Products";
 
 // import Products from "./components/sections/Products";
 // import About from "./components/sections/About";
@@ -58,6 +59,7 @@ function PublicSite() {
         <Header />
 <main>
   <Hero />
+  <Products />
   <About />
   <WhyUs />
   <Reviews />
