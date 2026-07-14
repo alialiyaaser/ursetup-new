@@ -8,6 +8,7 @@ import Loader from "./components/sections/Loader";
 import PromoBanner from "./components/sections/PromoBanner";
 import Header from "./components/sections/Header";
 import Hero from "./components/sections/Hero";
+import About from "./components/sections/About";
 
 // import Products from "./components/sections/Products";
 // import About from "./components/sections/About";
