@@ -11,6 +11,7 @@ import Hero from "./components/sections/Hero";
 import About from "./components/sections/About";
 import WhyUs from "./components/sections/WhyUs";
 import Reviews from "./components/sections/Reviews";
+import Testimonials from "./components/sections/Testimonials";
 
 // import Products from "./components/sections/Products";
 // import About from "./components/sections/About";
@@ -55,6 +56,7 @@ function PublicSite() {
   <About />
   <WhyUs />
   <Reviews />
+  <Testimonials />
 </main>
         <Footer />
         <FloatingWidgets />
