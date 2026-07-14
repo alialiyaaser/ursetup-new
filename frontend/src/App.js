@@ -49,9 +49,7 @@ function PublicSite() {
         <Header />
 <main>
   <Hero />
-  <div style={{color:"white"}}>
-    TEST PRODUCTS
-  </div>
+  <About />
 </main>
         <Footer />
         <FloatingWidgets />
