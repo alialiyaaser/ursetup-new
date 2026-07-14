@@ -335,6 +335,6 @@ export const ASSETS = {
   about: "/aboutus.png",
   hero: "all.webp",
   heroBg: "https://images.unsplash.com/photo-1747696766706-5485b39bf358?crop=entropy&cs=srgb&fm=jpg&w=2000&q=85",
-  setup1: "https://images.unsplash.com/photo-1614179924047-e1ab49a0a0cf?crop=entropy&cs=srgb&fm=jpg&w=1200&q=85",
-  setup2: "https://images.unsplash.com/photo-1603481588273-2f908a9a7a1b?crop=entropy&cs=srgb&fm=jpg&w=1200&q=85",
+  setup1: "se.webp",
+  setup2: "we.webp",
 };
