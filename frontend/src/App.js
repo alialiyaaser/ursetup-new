@@ -47,16 +47,6 @@ function PublicSite() {
         <Header />
         <main>
           <Hero />
-          <Products />
-          <ComingSoon />
-          <About />
-          <WhyUs />
-          <Stats />
-          <Reviews />
-          <Testimonials />
-          <FAQ />
-          <Newsletter />
-          <Contact />
         </main>
         <Footer />
         <FloatingWidgets />
