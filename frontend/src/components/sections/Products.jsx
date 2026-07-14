@@ -157,7 +157,7 @@ function ProductModal({ slug, onClose }) {
           <h3 className="font-display text-3xl md:text-4xl font-bold text-white mb-4">{item.name}</h3>
           <p className="text-neutral-400 leading-[1.9] mb-6">{item.desc}</p>
           <div className="border-t border-white/10">
-            {t.products.specs.map(([k, v]) => (
+            {Array.isArray(t.products.specs) && t.products.specs.map(([k, v]) => (
               <div key={k} className="flex items-center justify-between py-3.5 border-b border-white/10 text-sm">
                 <span className="text-neutral-500 uppercase tracking-[0.18em] text-xs">{k}</span>
                 <span className="text-white">{v}</span>
