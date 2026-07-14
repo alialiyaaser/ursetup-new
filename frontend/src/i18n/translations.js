@@ -312,24 +312,21 @@ export const translations = {
 export const PRODUCTS = [
   {
     slug: "grey-marble",
-    img: "https://images.unsplash.com/photo-1566305977571-5666677c6e98?crop=entropy&cs=srgb&fm=jpg&w=1200&q=85",
-    productPhoto: "/OUSE.webp",
+    img: "/OUSE.webp",
     storeUrl: "https://salla.sa/",
-    price: "SAR 149",
+    price: "SAR 129",
   },
   {
     slug: "white-marble",
-    img: "https://images.unsplash.com/photo-1671713682262-460003e8e625?crop=entropy&cs=srgb&fm=jpg&w=1200&q=85",
-    productPhoto: "/IMDD.webp",
+    img: "/IMDD.webp",
     storeUrl: "https://salla.sa/",
-    price: "SAR 149",
+    price: "SAR 129",
   },
   {
     slug: "dark-marble",
-    img: "https://images.unsplash.com/photo-1650804068570-7fb2e3dbf888?crop=entropy&cs=srgb&fm=jpg&w=1200&q=85",
-    productPhoto: "/IMG_3523.jpg",
+    img: "/IMG_3523.jpg",
     storeUrl: "https://salla.sa/",
-    price: "SAR 149",
+    price: "SAR 129",
   },
 ];
 
