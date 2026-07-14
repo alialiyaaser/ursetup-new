@@ -17,7 +17,7 @@ export default function Reviews() {
         api.get("/reviews", { params: { limit: 20 } }),
         api.get("/reviews/summary"),
       ]);
-      setReviews(r1.data);
+      setReviews(Array.isArray(r1.data) ? r1.data : []);
       setSummary(r2.data);
     } catch (e) {
       console.error("[Reviews] failed to load reviews:", e);
