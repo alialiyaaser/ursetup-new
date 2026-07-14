@@ -29,7 +29,15 @@ export default function Stats() {
   const ref = useRef(null);
 
   useEffect(() => {
-    api.get("/stats").then((r) => setData(r.data)).catch(() => {});
+    api.get("/stats")
+  .then((r) =>
+    setData({
+      customers: r.data.customers ?? 250,
+      orders: r.data.orders ?? 500,
+      average_rating: r.data.average_rating ?? 4.9,
+    })
+  )
+  .catch(() => {});
     const io = new IntersectionObserver(
       (entries) => entries.forEach((e) => e.isIntersecting && setInView(true)),
       { threshold: 0.2 }
