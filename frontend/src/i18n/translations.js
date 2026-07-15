@@ -315,6 +315,7 @@ export const translations = {
       "grey-marble": "الرخام الرمادي",
       "white-marble": "الرخام الأبيض",
       "dark-marble": "الرخام الداكن",
+      "pink-marble": "الرخام الوردي",
     },
   },
 };
