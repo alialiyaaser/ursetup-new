@@ -21,14 +21,14 @@ export const translations = {
       title1: "Elevate",
       title2: "Your Setup.",
       subtitle:
-        "A Saudi-born brand crafting museum-grade marble mousepads and setup essentials for players, creators and connoisseurs.",
-      shop: "Shop Collection",
+        "A Saudi brand specializing in setup accessories; we offer high-quality, modernly designed products for office and gaming enthusiasts.",
+      shop: "Shop Now",
       explore: "Explore Craft",
       marqueeItems: ["Marble Series", "Free Delivery in KSA", "Made for Play", "Museum-grade Finish", "Handcrafted Details"],
     },
     products: {
-      kicker: "THE MARBLE SERIES / 04 ARTIFACTS",
-      title: "Three surfaces. One obsession with detail.",
+      kicker: "Carefully selected products to give you a professional setup experience. / 04 ARTIFACTS",
+      title: "Our Featured Products",
       subtitle:
         "Each mousepad is a study in restraint — precision-stitched edges, low-friction micro-weave, and cinema-grade marble prints that photograph as beautifully as they perform.",
       items: {
@@ -182,14 +182,14 @@ export const translations = {
       title1: "ارتقِ",
       title2: "بسيت ابك.",
       subtitle:
-        "علامة تجارية سعودية تُنتج ماوس باد رخامية بجودة معارض الفن، وإكسسوارات مكاتب للاعبين والمصممين وعشاق التفاصيل.",
-      shop: "تسوّق المجموعة",
+        "علامة تجارية سعودية متخصصة في إكسسوارات السيت أب، نقدم منتجات عالية الجودة بتصميم عصري لمحبي المكاتب والألعاب.",
+      shop: "تسوق الآن",
       explore: "استكشف الحرفية",
       marqueeItems: ["سلسلة الرخام", "توصيل مجاني داخل المملكة", "مصنوع لللعب", "جودة معارض الفن", "تفاصيل يدوية"],
     },
     products: {
-      kicker: "سلسلة الرخام / ٠٤ قِطع",
-      title: "ثلاثة أسطح. هوس واحد بالتفاصيل.",
+      kicker: "منتجات مختارة بعناية لتمنحك تجربة Setup احترافية. / ٠٤ قِطع",
+      title: "منتجاتنا المميزة",
       subtitle:
         "كل ماوس باد دراسة في الأناقة — حواف مخيطة بدقة، نسيج ميكروي منخفض الاحتكاك، وطباعة رخامية سينمائية تتألق أمام الكاميرا كما تتألق تحت يدك.",
       items: {
