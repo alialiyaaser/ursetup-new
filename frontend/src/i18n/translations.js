@@ -313,19 +313,19 @@ export const PRODUCTS = [
   {
     slug: "grey-marble",
     img: "/OUSE.webp",
-    storeUrl: "https://salla.sa/",
+    storeUrl: "https://www.ursetup.store/",
     price: "SAR 129",
   },
   {
     slug: "white-marble",
     img: "wihte.webp",
-    storeUrl: "https://salla.sa/",
+    storeUrl: "https://www.ursetup.store/",
     price: "SAR 129",
   },
   {
     slug: "dark-marble",
     img: "black.webp",
-    storeUrl: "https://salla.sa/",
+    storeUrl: "https://www.ursetup.store/",
     price: "SAR 129",
   },
 ];
