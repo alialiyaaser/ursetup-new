@@ -7,7 +7,7 @@ export default function Contact() {
   const items = [
     { label: "Instagram", href: "https://www.instagram.com/ur.setup", Icon: Instagram, handle: "@ur.setup" },
     { label: "TikTok", href: "https://www.tiktok.com/@ur.setup", Icon: Music2, handle: "@ur.setup" },
-    { label: "Salla Store", href: "https://salla.sa/", Icon: Store, handle: "salla.sa" },
+    { label: "Store SOON", href: "https://www.ursetup.store/", Icon: Store, handle: "ursetup.store" },
   ];
   return (
     <section id="contact" data-testid="contact-section" className="py-28 lg:py-36 bg-[#090909]">
