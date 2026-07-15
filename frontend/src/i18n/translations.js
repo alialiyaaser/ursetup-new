@@ -145,7 +145,7 @@ export const translations = {
     contact: {
       kicker: "SAY HELLO",
       title: "Talk to the studio.",
-      subtitle: "Instagram, TikTok, or our Salla store — we answer within one working day.",
+      subtitle: "Instagram, TikTok, or our store — we answer within one working day.",
       whatsapp: "WhatsApp us",
     },
     footer: {
@@ -291,7 +291,7 @@ export const translations = {
     contact: {
       kicker: "قل مرحبًا",
       title: "تحدّث إلى الاستوديو.",
-      subtitle: "إنستقرام أو تيك توك أو متجرنا في سلة — نرد خلال يوم عمل واحد.",
+      subtitle: "إنستقرام أو تيك توك أو متجرنا — نرد خلال يوم عمل واحد.",
       whatsapp: "تواصل واتساب",
     },
     footer: {
