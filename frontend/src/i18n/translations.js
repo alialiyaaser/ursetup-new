@@ -47,7 +47,7 @@ export const translations = {
           tag: "Nocturne",
           desc: "Deep obsidian with silver veins. Built for late-night sessions and cinematic desks.",
         },
-        "new-marble": {
+        "PINK-marble": {
          name: "PINK Marble",
          tag: "Limited",
          desc: "Premium marble edition.",
