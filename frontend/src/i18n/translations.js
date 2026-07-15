@@ -47,6 +47,11 @@ export const translations = {
           tag: "Nocturne",
           desc: "Deep obsidian with silver veins. Built for late-night sessions and cinematic desks.",
         },
+        "new-marble": {
+         name: "PINK Marble",
+         tag: "Limited",
+         desc: "Premium marble edition.",
+       },
       },
       cta: "View on store",
       specTitle: "The specification",
@@ -208,6 +213,11 @@ export const translations = {
           tag: "الليلي",
           desc: "أسود عميق بعروق فضية. صُنع لجلسات الليل والمكاتب السينمائية.",
         },
+        "PINK-marble": {
+         name: "الرخام الوردي",
+         tag: "إصدار محدود",
+          desc: "نسخة رخامية فاخرة.",
+  },
       },
       cta: "عرض في المتجر",
       specTitle: "المواصفات",
@@ -328,6 +338,12 @@ export const PRODUCTS = [
     storeUrl: "https://www.ursetup.store/",
     price: "SAR 129",
   },
+  {
+  slug: "pink-marble",
+  img: "pink.webp",
+  storeUrl: "https://www.ursetup.store/",
+  price: "SAR 129",
+}
 ];
 
 export const ASSETS = {
