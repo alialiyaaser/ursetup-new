@@ -130,6 +130,11 @@ export const translations = {
           q: "What is your return policy?",
           a: "Unused items in original packaging can be returned within 14 days. Details on the Salla store.",
         },
+        {
+          q: "Do your products come with a warranty?",
+          a: " Shop with confidence! If you are not satisfied with your product or it doesn't meet your expectations, we guarantee a full refund within 7 days of delivery."
+            },
+
       ],
     },
     newsletter: {
@@ -281,6 +286,7 @@ export const translations = {
         { q: "هل الماوس باد قابل للغسل؟", a: "نعم. ماء بارد ومنظف لطيف، ثم يُترك ليجف بشكل مسطح. الحواف لن تتفكك." },
         { q: "هل تقدمون طلبات جماعية للشركات؟", a: "نعم — لفرق الرياضات الإلكترونية والمكاتب والهدايا. تواصل معنا للتسعير." },
         { q: "ما هي سياسة الإرجاع؟", a: "سياسه الاستبدال والارجاع تجدونها عبر متجرنا." },
+        { q: "هل يوجد ضمان على المنتجات؟", a: " تسوّق وأنت مطمئن! إذا لم يُعجبك المنتج أو لم يطابق توقعاتك, نضمن لك استرجاع كامل مبلغ المنتج خلال 7 أيام من الاستلام." },
       ],
     },
     newsletter: {
