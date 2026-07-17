@@ -19,7 +19,7 @@ export default function About() {
                 />
               </div>
               <div className="absolute -bottom-6 start-6 bg-black border border-white/10 px-5 py-4">
-                <p className="kicker">EST. 2023</p>
+                <p className="kicker">EST. 2025</p>
                 <p className="font-display text-xl font-bold text-white mt-1">RIYADH · KSA</p>
               </div>
             </div>
