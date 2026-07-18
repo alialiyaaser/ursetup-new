@@ -156,8 +156,8 @@ export const translations = {
       secure: "Secure checkout",
     },
     contact: {
-      kicker: "SAY HELLO",
-      title: "Talk to the studio.",
+      kicker: "We’re waiting for your message",
+      title: "Glad to have you with us.",
       subtitle: "Instagram, TikTok, or our store — we answer within one working day.",
       whatsapp: "WhatsApp us",
     },
@@ -309,8 +309,8 @@ export const translations = {
       secure: "دفع آمن",
     },
     contact: {
-      kicker: "قل مرحبًا",
-      title: "تحدّث إلى الاستوديو.",
+      kicker: "ننتظر رساتلك",
+      title: "سعداء بوجودك معنا.",
       subtitle: "إنستقرام أو تيك توك أو متجرنا — نرد خلال يوم عمل واحد.",
       whatsapp: "تواصل واتساب",
     },
