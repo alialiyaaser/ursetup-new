@@ -9,11 +9,6 @@ import {
   Mail,
   Users,
   Shield,
-  ShoppingCart,
-  Package,
-  BarChart3,
-  Settings,
-  Headset,
 } from "lucide-react";
 import { useAuth } from "../contexts/AuthContext";
 
