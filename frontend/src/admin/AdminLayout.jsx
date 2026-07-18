@@ -1,6 +1,20 @@
 import React, { useMemo } from "react";
 import { NavLink, Navigate, Outlet, useNavigate } from "react-router-dom";
-import { LogOut, LayoutDashboard, MessageSquare, Rocket, Megaphone, Mail, Users, Shield } from "lucide-react";
+import {
+  LogOut,
+  LayoutDashboard,
+  MessageSquare,
+  Rocket,
+  Megaphone,
+  Mail,
+  Users,
+  Shield,
+  ShoppingCart,
+  Package,
+  BarChart3,
+  Settings,
+  Headset,
+} from "lucide-react";
 import { useAuth } from "../contexts/AuthContext";
 
 const NAV = [
