@@ -66,7 +66,7 @@ export default function Hero() {
               <div className="w-px h-10 bg-white/10 self-center" />
               <Stat kicker="500+" label={t.stats.customers} />
               <div className="w-px h-10 bg-white/10 self-center" />
-              <Stat kicker="03" label={lang === "ar" ? "قِطع" : "Artifacts"} />
+              <Stat kicker="04" label={lang === "ar" ? "قِطع" : "Artifacts"} />
             </div>
           </div>
 
