@@ -38,6 +38,27 @@ export default function AdminOverview() {
               {data ? (data[key] ?? 0) : "—"}
             </p>
           </div>
+      <div className="mt-10">
+  <h2 className="text-xl font-bold mb-4">Quick Actions</h2>
+
+  <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+    <button className="border border-white/10 bg-[#0f0f0f] p-5 text-left hover:border-white/30 transition">
+      ⭐ Manage Reviews
+    </button>
+
+    <button className="border border-white/10 bg-[#0f0f0f] p-5 text-left hover:border-white/30 transition">
+      📧 Newsletter
+    </button>
+
+    <button className="border border-white/10 bg-[#0f0f0f] p-5 text-left hover:border-white/30 transition">
+      🚀 Coming Soon
+    </button>
+
+    <button className="border border-white/10 bg-[#0f0f0f] p-5 text-left hover:border-white/30 transition">
+      👥 Users
+    </button>
+  </div>
+</div>
         ))}
       </div>
     </div>
