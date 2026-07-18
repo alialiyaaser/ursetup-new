@@ -20,13 +20,8 @@ export default function AdminOverview() {
 
   return (
     <div data-testid="admin-overview">
-      <h1 className="font-display text-4xl font-extrabold tracking-tight mb-2">
-  Dashboard
-</h1>
-      <p className="text-neutral-400 mb-10 max-w-2xl">
-  Welcome to the UR SETUP management dashboard. Monitor your team, reviews,
-  newsletter, and store activity from one place.
-</p>
+      <h1 className="font-display text-3xl font-bold mb-1">Studio Overview</h1>
+      <p className="text-neutral-400 text-sm mb-10">Everything happening across UR SETUP right now.</p>
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
         {CARDS.map(({ key, label, Icon }) => (
           <div key={key} className="border border-white/10 bg-[#0f0f0f] p-6" data-testid={`overview-${key}`}>
@@ -38,27 +33,6 @@ export default function AdminOverview() {
               {data ? (data[key] ?? 0) : "—"}
             </p>
           </div>
-      <div className="mt-10">
-  <h2 className="text-xl font-bold mb-4">Quick Actions</h2>
-
-  <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
-    <button className="border border-white/10 bg-[#0f0f0f] p-5 text-left hover:border-white/30 transition">
-      ⭐ Manage Reviews
-    </button>
-
-    <button className="border border-white/10 bg-[#0f0f0f] p-5 text-left hover:border-white/30 transition">
-      📧 Newsletter
-    </button>
-
-    <button className="border border-white/10 bg-[#0f0f0f] p-5 text-left hover:border-white/30 transition">
-      🚀 Coming Soon
-    </button>
-
-    <button className="border border-white/10 bg-[#0f0f0f] p-5 text-left hover:border-white/30 transition">
-      👥 Users
-    </button>
-  </div>
-</div>
         ))}
       </div>
     </div>
