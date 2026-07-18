@@ -24,7 +24,7 @@ export const translations = {
         "A Saudi brand specializing in setup accessories; we offer high-quality, modernly designed products for office and gaming enthusiasts.",
       shop: "Shop Now",
       explore: "Explore Craft",
-      marqueeItems: ["Marble Series", "Free Delivery in KSA", "Made for Play", "Museum-grade Finish", "Handcrafted Details"],
+      marqueeItems: ["Never settle for anything less than luxury", "A companion for every ambitious gamer", "Fast and free shipping", "Gallery-quality craftsmanship", "Handcrafted Details"],
     },
     products: {
       kicker: "Carefully selected products to give you a professional setup experience. / 04 ARTIFACTS",
@@ -195,7 +195,7 @@ export const translations = {
         "علامة تجارية سعودية متخصصة في إكسسوارات السيت أب، نقدم منتجات عالية الجودة بتصميم عصري لمحبي المكاتب والألعاب.",
       shop: "تسوق الآن",
       explore: "استكشف الحرفية",
-      marqueeItems: ["سلسلة الرخام", "توصيل مجاني داخل المملكة", "مصنوع لللعب", "جودة معارض الفن", "تفاصيل يدوية"],
+      marqueeItems: ["لا ترضى بأقل من الفخامة", "رفيق كل قيمر طموح", "شحن سريع ومجاني", "جودة معارض الفن", "تفاصيل يدوية"],
     },
     products: {
       kicker: "منتجات مختارة بعناية لتمنحك تجربة Setup احترافية. / ٠٤ قِطع",
