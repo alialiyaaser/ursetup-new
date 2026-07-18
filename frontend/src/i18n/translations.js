@@ -133,8 +133,11 @@ export const translations = {
         {
           q: "Do your products come with a warranty?",
           a: " Shop with confidence! If you are not satisfied with your product or it doesn't meet your expectations, we guarantee a full refund within 7 days of delivery."
+           },
+          {
+           q: "When can I contact customer support?",
+           a: "Our team is available 24/7 throughout the week! On Fridays, we are available to assist you from 1:30 PM to 6:30 PM"
             },
-
       ],
     },
     newsletter: {
@@ -287,6 +290,7 @@ export const translations = {
         { q: "هل تقدمون طلبات جماعية للشركات؟", a: "نعم — لفرق الرياضات الإلكترونية والمكاتب والهدايا. تواصل معنا للتسعير." },
         { q: "ما هي سياسة الإرجاع؟", a: "سياسه الاستبدال والارجاع تجدونها عبر متجرنا." },
         { q: "هل يوجد ضمان على المنتجات؟", a: " تسوّق وأنت مطمئن! إذا لم يُعجبك المنتج أو لم يطابق توقعاتك, نضمن لك استرجاع كامل مبلغ المنتج خلال 7 أيام من الاستلام." },
+        { q: "متى يمكنني التواصل معكم؟", a: "فريقنا متاح لخدمتكم 24 ساعة طوال أيام الأسبوع! ويوم الجمعة، نكون في خدمتكم من الساعة 1:30 مساءً وحتى 6:30 مساءً." },
       ],
     },
     newsletter: {
